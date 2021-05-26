@@ -1,0 +1,11 @@
+
+
+Git
+
+git status = check status
+git init = set this in a directory
+
+git add file(s)
+git commit -m "The message goes here"
+
+git add . (stages all files needing to be done)
